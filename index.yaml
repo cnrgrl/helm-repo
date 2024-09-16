@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cnr-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-16T10:36:22.072303108Z"
+    description: A Helm chart for Kubernetes
+    digest: 135b18548b81946b91acbea828dc8f32bc95d67b049056926ed93c54a1dd4645
+    name: cnr-chart
+    type: application
+    urls:
+    - cnr-chart-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-09-16T10:36:22.071891055Z"
